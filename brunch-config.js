@@ -56,7 +56,7 @@ exports.config = {
       elmFolder: "web/elm",
       mainModules: ["App.elm"],
       outputFile: "elm.js",
-      outputFolder: "web/js"
+      outputFolder: "web/static/js"
     },
     babel: {
       // Do not use ES6 compiler in vendor code
